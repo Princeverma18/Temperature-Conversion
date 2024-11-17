@@ -13,5 +13,5 @@ HTML: For structuring the content of the application.
 CSS: For styling the application.
 JavaScript: For implementing the logic and interactivity.
 
-**Clone the repository:**
+**Installation**
 https://github.com/Princeverma18/temperature-conversion.git
